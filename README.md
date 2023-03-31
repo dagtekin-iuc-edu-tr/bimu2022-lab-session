@@ -2,6 +2,6 @@
 
 Lab dersinde gördüğümüz şeyler
 
--- Bisection method
+- Bisection method
 
--- lineer denklem sistemleri
+- lineer denklem sistemleri
